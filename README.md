@@ -1,4 +1,4 @@
-# spotify-data-engineering-pipeline
+# spotify-api-btach-pipeline
 
 Btach ETL pipeline with python to ingest and process datasets from spotify api
 
